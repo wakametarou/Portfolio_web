@@ -10306,7 +10306,8 @@ body {
 }
 
 .signup-section {
-  padding: 10rem 0;
+  padding-top: 70px;
+  padding-bottom: 40px;
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000000 100%), url("../assets/img/bg-signup.jpg");
   background-position: center;
   background-repeat: no-repeat;
@@ -10325,7 +10326,7 @@ body {
 }
 
 .contact-section {
-  padding-top: 5rem;
+  padding-top: 10px;
 }
 .contact-section .card {
   border: 0;
@@ -10359,6 +10360,10 @@ body {
 }
 .contact-section .social a:active {
   color: #fff;
+}
+
+.contact-box{
+  justify-content: center;
 }
 
 .footer {
