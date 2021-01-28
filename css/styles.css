@@ -379,6 +379,9 @@ h2, .h2 {
 h3, .h3 {
   font-size: 1.75rem;
 }
+.tiltle {
+  margin-bottom: 50px;
+}
 
 h4, .h4 {
   font-size: 1.5rem;
@@ -1515,6 +1518,10 @@ pre code {
   .col-xl-4 {
     flex: 0 0 33.3333333333%;
     max-width: 33.3333333333%;
+  }
+
+  .pli {
+    list-style: none;
   }
 
   .col-xl-5 {
@@ -10357,3 +10364,4 @@ body {
 .footer {
   padding: 5rem 0;
 }
+
